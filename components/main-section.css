@@ -1,0 +1,9 @@
+.main-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: #090b1a;
+  width: 1440px;
+  height: 800px;
+}
